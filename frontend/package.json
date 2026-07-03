@@ -1,0 +1,11 @@
+{
+  "name": "decodelabs-frontend",
+  "version": "1.0.0",
+  "description": "Frontend static server configuration for ModernStudio",
+  "scripts": {
+    "start": "serve -p 3000 ."
+  },
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}
